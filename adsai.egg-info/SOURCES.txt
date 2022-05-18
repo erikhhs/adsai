@@ -1,0 +1,8 @@
+setup.py
+adsai/__init__.py
+adsai/functions.py
+adsai.egg-info/PKG-INFO
+adsai.egg-info/SOURCES.txt
+adsai.egg-info/dependency_links.txt
+adsai.egg-info/requires.txt
+adsai.egg-info/top_level.txt
